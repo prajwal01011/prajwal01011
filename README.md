@@ -15,9 +15,6 @@
 ###
 
 <div data-importer="stats" align="center">
-  <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=prajwal01011&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
   <img src="https://raw.githubusercontent.com/prajwal01011/prajwal01011/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
