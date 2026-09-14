@@ -25,16 +25,6 @@ I'm a passionate **BCA student** who enjoys learning programming, building proje
 
 ---
 
-## 🛠️ Languages and Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,git,github,vscode" />
-
-</p>
-
----
-
 ## 📌 Current Projects
 
 🔹 **Crime Record Management System**
@@ -46,22 +36,6 @@ A console-based project developed using **C**, featuring:
 * Modify records
 * Delete records
 * File handling
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-
-</p>
 
 ---
 
