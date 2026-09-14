@@ -4,7 +4,93 @@
 
 ###
 
-<h2 data-importer="text" align="left">Hi 👋! My name is Prajwal Baskota and I'm a software developer from Bhadrapur,2-Jhapa/Nepal</h2>
+<h2 data-importer="text" align="left"># Hi 👋, I'm Prajwal Baskota
+
+### 💻 BCA-IT Student | Aspiring Software Developer | C/C++ Learner
+
+Welcome to my GitHub profile! 👨‍💻
+
+I'm a passionate **BCA student** who enjoys learning programming, building projects, and exploring new technologies.
+
+---
+
+## 👨‍💻 About Me
+
+* 🎓 I'm currently studying **Bachelor of Computer Applications-IT (BCA-IT)**
+* 🌱 I'm currently learning **C and C++**
+* 💻 Interested in **Software Development and Cybersecurity**
+* 🔭 Currently working on programming projects
+* 📚 Always learning new technologies and improving my skills
+* 🎯 My goal is to become a skilled **Software Developer**
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,git,github,vscode" />
+
+</p>
+
+---
+
+## 📌 Current Projects
+
+🔹 **Crime Record Management System**
+A console-based project developed using **C**, featuring:
+
+* Add criminal records
+* Display records
+* Search records
+* Modify records
+* Delete records
+* File handling
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+```text
+C Programming
+C++ Programming
+Data Structures
+Object-Oriented Programming
+Git & GitHub
+```
+
+---
+
+## 🎯 Goals
+
+* 🚀 Improve my programming skills
+* 💻 Build more real-world projects
+* 📚 Learn Data Structures and Algorithms
+* 🔐 Explore Cybersecurity
+* 🌟 Become a professional Software Developer
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+Feel free to explore my repositories and follow my programming journey! 🚀
+
 
 ###
 
