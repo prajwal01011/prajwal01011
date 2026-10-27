@@ -40,8 +40,8 @@ A console-based project developed using **C**, featuring:
 🔹 **Tetris**
 A python based Tetris game using pygame library, featuring:
 
-*Standard Tetris features
-*Customize audio
+* Standared Tetris
+* Orignal audio
 
 
 ---
